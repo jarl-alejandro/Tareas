@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tareas</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="btn_add">Agrega</string>
+    <string name="titulo">Titulo</string>
+    <string name="contenido">Contenido</string>
+    <string name="enviar">Enviar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="query">Llamar</string>
+
+</resources>
